@@ -16,3 +16,5 @@ Create a script that loops through all the stocks for each quarter and outputs t
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
+
+** Utilized Microsoft Learn and the past Module 2 Zoom classes for assistance **
